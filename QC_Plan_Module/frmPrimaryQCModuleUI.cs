@@ -40,7 +40,7 @@ namespace QC_Plan_Module
         }
         private void frmPrimaryQCModuleUI_Load(object sender, EventArgs e)
         {
-            //Hello QC
+            //Hello QC this is from tuhin
             enableEdit = false;
             rowIndex = 0;
             btnFirst.BackgroundImage.RotateFlip(RotateFlipType.Rotate180FlipY);
